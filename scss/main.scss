@@ -81,11 +81,11 @@ html, body {
 
     .slick-prev {
         left: 30px;
-        background-image: url(./images/arrow-left.png);
+        background-image: url('./images/arrow-left.png');
     }
     .slick-next {
         right: 30px;
-        background-image: url(./images/arow-right.png);
+        background-image: url('./images/arow-right.png');
     }
 
     .slick-dots {
