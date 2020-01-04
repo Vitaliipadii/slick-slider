@@ -53,7 +53,7 @@ html, body {
 
 .content {
   width: 100%;
-  background-image: url("../images/background.jpg");
+  background-image: url("./images/background.jpg");
   background-size: cover;
   background-position: -80px 30px;
   display: -webkit-box;
@@ -136,12 +136,12 @@ html, body {
 
 .slider .slick-prev {
   left: 30px;
-  background-image: url("../images/arrow-left.png");
+  background-image: url("./images/arrow-left.png");
 }
 
 .slider .slick-next {
   right: 30px;
-  background-image: url("../images/arow-right.png");
+  background-image: url("./images/arow-right.png");
 }
 
 .slider .slick-dots {
